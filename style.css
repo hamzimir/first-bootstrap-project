@@ -1,0 +1,489 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@font-face {
+  font-family: "Rashkey";
+  src: url(Rashkey.ttf);
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+.navbar {
+  /* height: 119px; */
+  color: #ffffff;
+}
+.navbar h1 {
+  width: 133px;
+  height: 31px;
+  /* font-family: "Poppins", sans-serif; */
+  font-weight: 600;
+  /* font-size: 32px; */
+  color: #ffffff;
+}
+.navbar li {
+  list-style: none;
+}
+.navbar li a {
+  text-decoration: none;
+  width: 104px;
+  height: 24px;
+  font-family: "Poppins", sans-serif;
+}
+#para-tittle {
+  font-size: 60px;
+  font-weight: 400;
+  font-family: "Rashkey";
+  /* font-family: rashkeyfont-family: Rashkey; */
+  line-height: 70px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+#btn {
+  margin-top: 12px;
+}
+#para-img {
+  top: -19px;
+  left: -18px;
+}
+#line-img {
+  bottom: 20px;
+}
+.container-brand h1 {
+  font-family: "Rashkey";
+  font-size: 38px;
+  line-height: 45px;
+}
+#spany {
+  font-family: "Rashkey";
+  font-size: 38px;
+  line-height: 45px;
+  letter-spacing: -6px;
+}
+#deeimg {
+  left: -19px;
+  top: -24px;
+}
+.brand-img-div {
+  bottom: -225px;
+}
+#service-heading {
+  font-family: Rashkey;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 70px;
+  color: gray;
+}
+#para-service {
+  
+  color: gray;
+  text-align: center;
+}
+#img-service {
+  top: -30px;
+}
+#text-service {
+  font-family: "Rashkey";
+  font-size: 60px;
+  line-height: 45px;
+  letter-spacing: -6px;
+}
+#card-heading {
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 45px;
+  text-align: left;
+}
+#card-heading1 {
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 45px;
+  text-align: left;
+  margin-left: -25px;
+}
+#card-heading2 {
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 45px;
+  text-align: left;
+}
+.card-body p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: gray;
+}
+#choose {
+  font-family: Rashkey;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 70px;
+  text-align: center;
+}
+#choose-para {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  color: gray;
+}
+.parasize{
+  text-align: center;
+  color: gray;
+}
+#work-heading {
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 600;
+  text-align: center;
+  color: white;
+  margin-bottom: 1px;
+}
+#work-heading1 {
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 35px;
+  text-align: center;
+  color: white;
+}
+#work-heading2 {
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 600;
+  /* line-height: 35px; */
+  text-align: center;
+  color: white;
+  width: 208px;
+  margin-bottom: 0;
+}
+.work-img{
+  margin-left: 130px;
+  margin-top: 15px;
+}
+#check-img{
+  margin-top: -42px;
+  margin-left: -158px;
+}
+#testimonial{
+  background-color: #2A2A2A;
+  /* box-shadow: 0px 0px 12px 0px rgba(248, 241, 241, 0.25);  */
+  border-radius: 25px;
+  width: 95%;
+ text-align: center;
+ align-content: center;
+ /* height: 394px; */
+
+}
+#testimonial-heading{
+  font-family: Rashkey;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 46px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+#test-para{
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+  color: white;
+}
+#test-row{
+  margin-left: -360px;
+  margin-top: -60px;
+}
+#test-line{
+  margin-top: -90px;
+  margin-left: 110px;
+}
+#test-demo{
+  top: -30px;
+}
+#footering{
+  font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+text-align: left;
+}
+#main-footer{
+  width: 94%;
+}
+.foot-para{
+  font-family: Poppins;
+font-size: 15px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+margin-top: 5px;
+}
+.foot-heading{
+  font-family: Poppins;
+font-size: 32px;
+font-weight: 600;
+line-height: 30px;
+text-align: left;
+}
+.foot-nav{
+  width: 94%;
+  margin-left: -30px;
+}
+#foot-logo{
+  margin-right: -360px;
+}
+@media (max-width: 1800px) and (min-width: 1600px) {
+  #cardonial {
+    margin-left: 10px;
+  }
+  }
+@media (max-width: 1600px) and (min-width: 1400px) {
+  #cardonial {
+    margin-left: 200px;
+  }
+  #line-img {
+    bottom: 65px;
+    left: 505px;
+    width: 100px;
+  }
+
+}
+@media (max-width: 1400px) and (min-width: 1200px) {
+  #line-img {
+    bottom: 65px;
+    /* margin-left: 505px; */
+    width: 80px;
+  }
+  #cardonial {
+    margin-left: 135px;
+  }
+  #test-row{
+    margin-left: -320px;
+    margin-top: -50px;
+  }
+  #foot-logo{
+    margin-right: -320px;
+  }
+}
+@media (max-width: 1200px) and (min-width: 992px){
+  #banto{
+    width: 970px;
+    height: 800px;
+  }
+  #test-row{
+    margin-left: -280px;
+    margin-top: -50px;
+  }
+  #testimonial-heading{
+    font-size: 25px;
+  }
+  #test-para{
+    font-size: 17px;
+  }
+  #test-line{
+    margin-top: -85px;
+    margin-left: 100px;
+  }
+  #test-demo{
+    top: -30px;
+    right: 15px;
+  }
+  #foot-logo{
+    margin-right: -250px;
+  }
+}
+@media (max-width: 992px) and (min-width: 768px){
+  #banto{
+    width: 730px;
+  }
+  #img-service {
+    display: none;
+  }
+  .work-img{
+    display: none;
+  }
+  .test-img{
+   display: none;
+  }
+  #test-row{
+    margin-left: -380px;
+    margin-top: -50px;
+  }
+  #test-line{
+   display: none;
+  }
+  #test-demo{
+    top: -260px;
+    right: 15px;
+  }
+  #foot-list{
+    font-size: 15px;
+  }
+  #foot-logo{
+    margin-right: -190px;
+  }
+  
+}
+@media (max-width: 768px) and (min-width: 400px) {
+  #para-tittle {
+    font-size: 40px;
+    padding: 0 10px;
+  }
+  #service-heading {
+    font-size: 40px;
+    padding: 0px 10px;
+  }
+  #banto{
+    width: 400px;
+    margin-top: 25px;
+    margin-bottom: -25px;
+  }
+  #img-service {
+    display: none;
+  }
+  #cardonial {
+    justify-content: center;
+  }
+  #choose {
+    font-size: 40px;
+    padding: 0px 10px;
+  }
+  .work-img{
+    display: none;
+  }
+  #work-heading{
+    font-size: 25px;
+    padding: 0px 10px;
+  }
+  #work-heading1{
+    font-size: 25px;
+    padding: 0px 10px;
+  }
+  #work-heading2{
+    font-size: 25px;
+    padding: 0px 10px;
+  }
+  #check-img{
+    display: none;
+  }
+  #test-row{
+   display: none;
+  }
+   #testimonial-heading{
+    font-size: 25px;
+      text-align: center;
+      margin-left: 25px;
+   }
+   #test-para{
+    font-size: 16px;
+    text-align: center;
+    margin-left: 20px;
+   }
+   #test-line{
+    display: none;
+   }
+   #hamzii-demo{
+    margin-top: -30px;
+   }
+   #test-demo{
+    display: none;
+  }
+  .foot-para{
+    display: none;
+  }
+  #togo-foot{
+    margin-left: 150px;
+  }
+  .foot-heading{
+    font-size: 30px;
+  }
+   
+}
+@media (max-width: 400px) and (min-width: 200px) {
+  #para-tittle {
+    font-size: 30px;
+    padding: 0 5px;
+  }
+  .container-brand h1 {
+    font-size: 30px;
+    padding: 0 5px;
+  }
+  #banto{
+    width: 365px;
+    margin-top: 25px;
+    margin-bottom: -35px;
+  }
+  #spany {
+    font-size: 30px;
+    padding: 0 5px;
+  }
+  #service-heading {
+    font-size: 30px;
+    padding: 0 5px;
+  }
+  #img-service {
+    display: none;
+  }
+  #cardonial {
+    justify-content: center;
+  }
+  #choose {
+    font-size: 30px;
+    padding: 0 5px;
+  }
+  #work-heading{
+    font-size: 20px;
+    padding: 0;
+  }
+  #work-heading1{
+    font-size: 20px;
+    padding: 0;
+  }
+  #work-heading2{
+    font-size: 20px;
+    padding: 0;
+  }
+  .work-img{
+    display: none;
+  }
+  #size-img{
+    width: 25rem;
+  }
+  #check-img{
+    display: none;
+  }
+   #testimonial-heading{
+    font-size: 22px;
+    text-align: center;
+    margin-left: 25px;
+   }
+   #test-para{
+    font-size: 16px;
+    text-align: center;
+    margin-left: 25px;
+   }
+   #test-demo{
+    display: none;
+  }
+  .foot-para{
+    display: none;
+  }
+  #test-line{
+    display: none;
+   }
+   #togo-foot{
+    margin-left: 60px;
+  }
+  .foot-heading{
+    font-size: 30px;
+  }
+   
+}
